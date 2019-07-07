@@ -14,10 +14,11 @@ void main(){
 	//P0M1=1;
 	
 	while(1){
-		for(i=0;i<3;i++){
+			i=0;
 			scan();
 			display();
 			num[i]=num0;//一次运算中第二次涉及此变量，传入num数组。(此变量之后要进行别的操作)
+			i++;
 		}
 		process();
 		diplay();		
