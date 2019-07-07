@@ -14,7 +14,6 @@ void main(){
 	//P0M1=1;
 	
 	while(1){
-		
 			i=0;
 			scan();
 			display();
