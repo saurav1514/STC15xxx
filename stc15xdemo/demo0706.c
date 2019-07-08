@@ -11,7 +11,7 @@ void main(){
 	u8 i;
 
 	//P0M0=0;设置P0模式 （按需使用）。
-	//P0M1=0;
+	//P0M1=0;GPIO
 	
 	while(1){
 			i=0;
